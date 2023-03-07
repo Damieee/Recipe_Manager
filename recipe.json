@@ -1,0 +1,97 @@
+{
+  "recipes": [
+    {
+      "name": "Spaghetti Carbonara",
+      "description": "A classic Italian dish made with spaghetti, eggs, bacon, and cheese",
+      "ingredients": [
+        {
+          "name": "spaghetti",
+          "quantity": "200g"
+        },
+        {
+          "name": "bacon",
+          "quantity": "100g"
+        },
+        {
+          "name": "eggs",
+          "quantity": "2"
+        },
+        {
+          "name": "Parmesan cheese",
+          "quantity": "50g"
+        },
+        {
+          "name": "salt",
+          "quantity": "to taste"
+        },
+        {
+          "name": "black pepper",
+          "quantity": "to taste"
+        }
+      ],
+      "instructions": [
+        "Cook the spaghetti in a large pot of boiling salted water until al dente",
+        "Meanwhile, fry the bacon in a large skillet until crisp. Remove from the heat and let cool slightly",
+        "In a medium bowl, whisk together the eggs and Parmesan cheese",
+        "Add the cooked spaghetti to the skillet with the bacon and toss to combine. Remove from heat",
+        "Pour the egg and cheese mixture over the spaghetti and toss to combine",
+        "Season with salt and black pepper to taste",
+        "Serve hot"
+      ],
+      "tags": ["Italian", "pasta", "dinner"]
+    },
+    {
+      "name": "Banana Bread",
+      "description": "A delicious and easy-to-make banana bread recipe",
+      "ingredients": [
+        {
+          "name": "all-purpose flour",
+          "quantity": "1 1/2 cups"
+        },
+        {
+          "name": "baking powder",
+          "quantity": "1 teaspoon"
+        },
+        {
+          "name": "baking soda",
+          "quantity": "1/2 teaspoon"
+        },
+        {
+          "name": "salt",
+          "quantity": "1/4 teaspoon"
+        },
+        {
+          "name": "ripe bananas",
+          "quantity": "3"
+        },
+        {
+          "name": "unsalted butter",
+          "quantity": "1/3 cup"
+        },
+        {
+          "name": "granulated sugar",
+          "quantity": "3/4 cup"
+        },
+        {
+          "name": "eggs",
+          "quantity": "2"
+        },
+        {
+          "name": "vanilla extract",
+          "quantity": "1 teaspoon"
+        }
+      ],
+      "instructions": [
+        "Preheat the oven to 350°F. Grease a 9x5 inch loaf pan",
+        "In a medium bowl, whisk together the flour, baking powder, baking soda, and salt",
+        "In a large bowl, mash the bananas with a fork or potato masher",
+        "Add the melted butter, sugar, eggs, and vanilla extract to the mashed bananas and mix well",
+        "Add the flour mixture to the banana mixture and stir until just combined",
+        "Pour the batter into the prepared loaf pan",
+        "Bake for 50-60 minutes, or until a toothpick inserted in the center of the bread comes out clean",
+        "Cool the bread in the pan for 10 minutes, then remove from the pan and transfer to a wire rack to cool completely"
+      ],
+      "tags": ["baking", "breakfast", "snack"]
+    }
+  ]
+}
